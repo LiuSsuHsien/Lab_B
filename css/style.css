@@ -10,6 +10,7 @@ h6 {
 
 .myLink {
     display: none
+<<<<<<< HEAD
 }
 .tyContainer {
     border: 2px solid white;
@@ -45,4 +46,6 @@ h6 {
 .tyContainer .tyTitle {
     background-color: gray;
     height: 50px;
+=======
+>>>>>>> parent of e2609ea (新增左上區塊)
 }
